@@ -7,14 +7,14 @@ Time: 24-06-2021
 user_id = "wutong8023"  # github id
 author_info = "Tongtong Wu"  # used in introduction
 personal_link = "https://wutong8023.site"  # used in introduction
-repo_name = "Text2Event"  # repository name
+repo_name = "Awesome_Commonsense_Knowledge"  # repository name
 branch_name = "blob/main"  # branch name
-your_research_topic = "EE"  # used for dictionary name
-your_research_topic_full_name = "Event Extraction"  # used for title
+your_research_topic = "CommonKnow"  # used for dictionary name
+your_research_topic_full_name = "Commonsense Knowledge Construction and Application"  # used for title
 bib_link_overleaf = "https://www.overleaf.com/read/rgscdxhxbwhp"  # used for overleaf
 color = "blue"
 
-base_link = f"https://github.com/{user_id}/{repo_name}/{branch_name}/paper_list/"
+base_link = f"https://github.com/{user_id}/{repo_name}/{branch_name}/"
 
 # user customized taxonomy
 fined_taxonomy = {
