@@ -37,6 +37,7 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
                     "[![](https://img.shields.io/badge/Awesome_Few_Shot_learning-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning.git) " \
                     "[![](https://img.shields.io/badge/Awesome_Information_Extraction-blue)](https://github.com/wutong8023/Awesome_Information_Extraction.git) " \
                     "[![](https://img.shields.io/badge/Awesome_Ideas-orange)](https://github.com/wutong8023/Awesome_Ideas.git)\n\n"
+    external_link = ""
     
     if filename.startswith("" + your_research_topic + "4nlp"):
         str_outline = external_link
