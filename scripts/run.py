@@ -119,8 +119,17 @@ def plot_content(index, keys, dir_path, disc, list_type, plot_titles=plot_titles
 # check repetition
 check_repetition()
 
-dir_path = ["./", "contribution", "time", "application", "supervision", "approach", "setting",
-            "research_question", "backbone_model", "dataset", "metrics", "author", "venue"]
+dir_path = [
+"./", 
+"contribution", 
+"time", 
+"application", 
+"data_source", 
+"construction", 
+"utilization",
+"author", 
+"benchmark",
+"venue"]
 
 mapping_name = {
     "./": "Summary",
@@ -128,13 +137,10 @@ mapping_name = {
     "time": "Published Time",
     "application": "Application",
     "contribution": "Contribution",
-    "supervision": " Learning Paradigm",
-    "approach": "Approach",
-    "setting": "Setting",
-    "research_question": "Research Questions",
-    "backbone_model": "Backbone Model",
-    "dataset": "Dataset",
-    "metrics": "Metrics",
+    "data_source": "Data Source",
+    "construction": "Knowledge Construction",
+    "utilization": "Knowledge Utilization",
+    "benchmark": "Benchmarks",
     "author": "Author",
 }
 dir_path_IE4all = ["" + your_research_topic + "4all/" + dp for dp in dir_path]
