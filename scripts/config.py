@@ -32,16 +32,28 @@ fined_taxonomy = {
     "Preprint": ["arXiv", "CoRR", "arxiv"],
     
     # 1: resource type
-    "Contribution": ["Survey", "Important", 
+    "Contribution": [
+    "Survey", 
+    "Important", 
+    "New Knowledge Base",
+    "New Benchmark",
     "New Settings or Metrics", 
     "New Application",
-    "Empirical Study", "Theory", "New Backbone Model", "New Method", "Thesis", "Library", "Workshop",
-                     "Other Type"],
+    "Empirical Study", 
+    "Theory", 
+    "New Backbone Model", 
+    "New Method", 
+    "Thesis", 
+    "Library", 
+    "Workshop",
+    "Other Type"],
 
     # 2: Creation Method
     "Knowledge Construction": 
     ["Crowdsourcing", 
-    "Automatic Information Extraction", "Knowledge Integration",
+    "Automatic", 
+    "Manual",
+    "Knowledge Integration",
     "Knowledge Consolidation", 
     "Other Creation Method"],
     

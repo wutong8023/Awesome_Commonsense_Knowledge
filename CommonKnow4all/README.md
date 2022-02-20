@@ -8,6 +8,7 @@ This page categorizes the literature by their **Published Venue**..
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/./README.md#hyperlink)
+- [![](https://img.shields.io/badge/AAAI-1-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/./README.md#aaai)
 - [![](https://img.shields.io/badge/arXiv-1-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/./README.md#arxiv)
 ## Hyperlink 
 - [Homepage](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/README.md)
@@ -22,6 +23,12 @@ This page categorizes the literature by their **Published Venue**..
 -  [Knowledge Utilization](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/utilization)
 -  [Published Venue](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/venue)
 
+## AAAI
+
+- [![](https://img.shields.io/badge/AAAI-2017-blue)](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14972)<a href="https://scholar.google.com.hk/scholar?q=ConceptNet+5.5:+An+Open+Multilingual+Graph+of+General+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ConceptNet 5.5: An Open Multilingual Graph of General Knowledge**](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14972) , <br> by *Robyn Speer and
+Joshua Chin and
+Catherine Havasi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L33-L46) <br>```ConceptNet[1999–2017][8 million nodes 21 million links]. ConceptNet is a semantic network created by the Open Mind Common Sense (OMCS). It is a directed graph whose nodes are concepts, and the edges represent assertions of commonsense about the concepts, e.g., “is a”, “is used for”, “motivated by goal”, etc. The nodes are natural language phrases, e.g., noun phrases, verb phrases, or clauses. The latest version of the knowledge base is ConceptNet 5.5, which contains over 8 million nodes and over 21 million links.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```SpeerCH17```
 ## arXiv
 
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.04674)<a href="https://scholar.google.com.hk/scholar?q=How+Commonsense+Knowledge+Helps+with+Natural+Language+Tasks:+A+Survey+of+Recent+Resources+and+Methodologies"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**How Commonsense Knowledge Helps with Natural Language Tasks: A Survey
