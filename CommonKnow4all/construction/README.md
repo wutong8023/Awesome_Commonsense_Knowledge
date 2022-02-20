@@ -6,7 +6,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/rgscdxhxbwhp).
 
-This page categorizes the literature by their **Evaluation Benchmarks of Commonsense Knowledge**.
+This page categorizes the literature by their **Construction Method of Commonsense Knowledge Bases**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/construction/README.md#hyperlink)

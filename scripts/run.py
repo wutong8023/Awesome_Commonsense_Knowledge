@@ -131,6 +131,8 @@ dir_path = [
 "benchmark",
 "venue"]
 
+dir_path_dict = {dir_p: index for index, dir_p in enumerate(dir_path)}
+
 mapping_name = {
     "./": "Summary",
     "venue": "Published Venue",
@@ -160,33 +162,33 @@ for index in indexs:
 
 # 1 Contribution
 list_type = [[typ] for typ in fined_taxonomy["Contribution"]]
-index = 1
+index = dir_path_dict["contribution"]
 disc = "This page categorizes the literature by their **Main Contribution**."
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
 
 # 2 time
 list_type = [[str(year)] for year in range(1980, 2030)][::-1]
-index = 2
+index = dir_path_dict["time"]
 disc = "This page categorizes the literature by their **Released Time**."
 plot_content(index=index, keys=["year"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
 
 # 3 Data Source
 list_type = [[sp] for sp in fined_taxonomy["Data Source"]]
-index = 4
+index = dir_path_dict["data_source"]
 disc = "This page categorizes the literature by their **Data Source of Commonsense Knowledge Base**"
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
 
-# 4 creation method
+# 4 construction method
 list_type = []
 for key in fined_taxonomy["Knowledge Construction"]:
     if key in fined_taxonomy.keys():
         list_type += [[k] for k in fined_taxonomy[key]]
     else:
         list_type.append([key])
-index = 5
+index = dir_path_dict["construction"]
 disc = "This page categorizes the literature by their **Construction Method of Commonsense Knowledge Bases**"
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
@@ -194,7 +196,7 @@ plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_
 
 # 5 application
 list_type = [[app] for app in fined_taxonomy["Application"]]
-index = 4
+index = dir_path_dict["application"]
 disc = "This page categorizes the literature by their **Downstream Application**"
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
@@ -206,7 +208,7 @@ for key in fined_taxonomy["Knowledge Utilization"]:
         list_type += [[k] for k in fined_taxonomy[key]]
     else:
         list_type.append([key])
-index = 5
+index = dir_path_dict["utilization"]
 disc = "This page categorizes the literature by their **Utilization Manner of Commonsense Knowledge**"
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
@@ -218,12 +220,12 @@ for key in fined_taxonomy["Benchmarks"]:
         list_type += [[k] for k in fined_taxonomy[key]]
     else:
         list_type.append([key])
-index = 5
+index = dir_path_dict["benchmark"]
 disc = "This page categorizes the literature by their **Evaluation Benchmarks of Commonsense Knowledge**"
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
 
 # 12 Author
-index = 6
+index = dir_path_dict["author"]
 disc = "This page categorizes the literature by their **Authors** who contributed at least 2 papers in this area."
 plot_content(index=index, keys=["author"], dir_path=dir_path, disc=disc, list_type=None, sub_dirs=sub_dirs, mapping_name=mapping_name)
