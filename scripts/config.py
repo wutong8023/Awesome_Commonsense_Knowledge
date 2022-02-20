@@ -43,12 +43,12 @@ fined_taxonomy = {
     ["Crowdsourcing", 
     "Automatic Information Extraction", "Knowledge Integration",
     "Knowledge Consolidation", 
-    "Other"],
+    "Other Creation Method"],
     
     # 3: Data Source
     "Data Source": [
         "Wikipedia", 
-        "Other"],
+        "Other Data Source"],
     
     
     # 4: Application
@@ -61,7 +61,7 @@ fined_taxonomy = {
     
     # 5: Utilization Method
     "Knowledge Utilization": [
-        "Other Approach",
+        "Other Utilization Method",
         ],
     
     
