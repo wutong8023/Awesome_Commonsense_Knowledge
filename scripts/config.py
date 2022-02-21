@@ -10,7 +10,7 @@ personal_link = ""  # used in introduction
 repo_name = "Awesome_Commonsense_Knowledge"  # repository name
 branch_name = "blob/main"  # branch name
 your_research_topic = "CommonKnow"  # used for dictionary name
-your_research_topic_full_name = "Commonsense Knowledge Construction and Application"  # used for title
+your_research_topic_full_name = "Commonsense Knowledge Base"  # used for title
 bib_link_overleaf = "https://www.overleaf.com/read/rgscdxhxbwhp"  # used for overleaf
 color = "blue"
 
