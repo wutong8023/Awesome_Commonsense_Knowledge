@@ -155,7 +155,7 @@ sub_dirs = [dir_path_IE4all]
 list_type = [[venue] for venue in fined_taxonomy["Conference"]]
 list_type += fined_taxonomy["Journal"]
 list_type.append(fined_taxonomy["Preprint"])
-indexs = [0, -1]
+indexs = [0]
 disc = "This page categorizes the literature by their **Published Venue**."
 for index in indexs:
     plot_content(index=index, keys=["booktitle", "journal"], dir_path=dir_path, disc=disc, list_type=list_type,
