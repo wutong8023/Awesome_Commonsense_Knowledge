@@ -19,7 +19,8 @@ base_link = f"https://github.com/{user_id}/{repo_name}/{branch_name}/"
 # user customized taxonomy
 fined_taxonomy = {
     "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", "AAAI",
-                   "IJCAI", "WWW", "MM", "CVPR", "ICCV", "ECCV", "WACV"],
+                   "IJCAI", "WWW", "MM", "CVPR", "ESWC", "ICCV", "ECCV", "WACV",
+                   "SIGDIAL"],
     
     "Journal": [
         ["TACL", "Transactions of the Association for Computational Linguistics", "Trans. Assoc. Comput. Linguistics"],
@@ -53,13 +54,12 @@ fined_taxonomy = {
     ["Crowdsourcing", 
     "Automatic", 
     "Manual",
-    "Knowledge Integration",
-    "Knowledge Consolidation", 
-    "Other Creation Method"],
+    "Knowledge Integration", 
+    "Other Construction Method"],
     
     # 3: Data Source
     "Data Source": [
-        "Wikipedia", 
+        "Wikipedia",
         "Other Data Source"],
     
     
@@ -68,6 +68,7 @@ fined_taxonomy = {
         "Relation Extraction", 
         "Event Extraction",   
         "Question Answering",
+        "Dialogue System", 
         "Other Application", 
         ],
     

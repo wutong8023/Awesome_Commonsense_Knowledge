@@ -37,7 +37,7 @@ for Sentiment Analysis**](https://doi.org/10.1145/3340531.3412003) , <br> by *Er
 Yang Li and
 Frank Z. Xing and
 Soujanya Poria and
-Kenneth Kwok* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L51-L67) <br>```SenticNet[2009-2020][200,000 concepts]. Speciﬁcally, semantics deﬁne the denotative information associated with natural language phrases, sentics deﬁne the emotion categorization values, expressed in terms of four aﬀective dimensions associated with these concepts, and polarity is ﬂoating number between −1 and +1. The knowledge base is automatically created from multiple other resources, e.g., WordNet-Aﬀect and OMCS.
+Kenneth Kwok* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L51-L67) <br>```SenticNet[2009-2020][200,000 concepts]. Speciﬁcally, semantics deﬁne the denotative information associated with natural language phrases, sentics deﬁne the emotion categorization values, expressed in terms of four aﬀective dimensions associated with these concepts, and polarity is ﬂoating number between −1 and +1. The knowledge base is automatically created from multiple other resources, e.g., WordNet-Affect and OMCS.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```CambriaLXPK20```
 ## Manual
 

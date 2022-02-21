@@ -9,7 +9,9 @@ This page categorizes the literature by their **Main Contribution**..
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/contribution/README.md#hyperlink)
 - [![](https://img.shields.io/badge/Survey-1-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/contribution/README.md#survey)
-- [![](https://img.shields.io/badge/New_Knowledge_Base-3-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/contribution/README.md#new-knowledge-base)
+- [![](https://img.shields.io/badge/New_Knowledge_Base-7-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/contribution/README.md#new-knowledge-base)
+- [![](https://img.shields.io/badge/New_Benchmark-9-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/contribution/README.md#new-benchmark)
+- [![](https://img.shields.io/badge/New_Method-4-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/contribution/README.md#new-method)
 ## Hyperlink 
 - [Homepage](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/README.md)
 -  [Summary](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/./)
@@ -31,16 +33,131 @@ Pearl Pu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/bl
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2108-04674```
 ## New Knowledge Base
 
+- [![](https://img.shields.io/badge/ESWC-2021-blue)](https://doi.org/10.1007/978-3-030-77385-4\_41)<a href="https://scholar.google.com.hk/scholar?q=CSKG:+The+CommonSense+Knowledge+Graph"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CSKG: The CommonSense Knowledge Graph**](https://doi.org/10.1007/978-3-030-77385-4\_41) , <br> by *Filip Ilievski and
+Pedro A. Szekely and
+Bin Zhang* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L124-L136) <br>```CSKG
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```IlievskiSZ21```
 - [![](https://img.shields.io/badge/CIKM-2020-blue)](https://doi.org/10.1145/3340531.3412003)<a href="https://scholar.google.com.hk/scholar?q=SenticNet+6:+Ensemble+Application+of+Symbolic+and+Subsymbolic+AI+for+Sentiment+Analysis"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**SenticNet 6: Ensemble Application of Symbolic and Subsymbolic AI
 for Sentiment Analysis**](https://doi.org/10.1145/3340531.3412003) , <br> by *Erik Cambria and
 Yang Li and
 Frank Z. Xing and
 Soujanya Poria and
-Kenneth Kwok* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L51-L67) <br>```SenticNet[2009-2020][200,000 concepts]. Speciﬁcally, semantics deﬁne the denotative information associated with natural language phrases, sentics deﬁne the emotion categorization values, expressed in terms of four aﬀective dimensions associated with these concepts, and polarity is ﬂoating number between −1 and +1. The knowledge base is automatically created from multiple other resources, e.g., WordNet-Aﬀect and OMCS.
+Kenneth Kwok* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L51-L67) <br>```SenticNet[2009-2020][200,000 concepts]. Speciﬁcally, semantics deﬁne the denotative information associated with natural language phrases, sentics deﬁne the emotion categorization values, expressed in terms of four aﬀective dimensions associated with these concepts, and polarity is ﬂoating number between −1 and +1. The knowledge base is automatically created from multiple other resources, e.g., WordNet-Affect and OMCS.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```CambriaLXPK20```
+- [![](https://img.shields.io/badge/WWW-2020-blue)](https://doi.org/10.1145/3366423.3380107)<a href="https://scholar.google.com.hk/scholar?q=ASER:+A+Large-scale+Eventuality+Knowledge+Graph"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ASER: A Large-scale Eventuality Knowledge Graph**](https://doi.org/10.1145/3366423.3380107) , <br> by *Hongming Zhang and
+Xin Liu and
+Haojie Pan and
+Yangqiu Song and
+Cane Wing{-}Ki Leung* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L107-L121) <br>```ASER
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhangLPSL20```
+- [![](https://img.shields.io/badge/AAAI-2019-blue)](https://doi.org/10.1609/aaai.v33i01.33013027)<a href="https://scholar.google.com.hk/scholar?q=ATOMIC:+An+Atlas+of+Machine+Commonsense+for+If-Then+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning**](https://doi.org/10.1609/aaai.v33i01.33013027) , <br> by *Maarten Sap and
+Ronan Le Bras and
+Emily Allaway and
+Chandra Bhagavatula and
+Nicholas Lourie and
+Hannah Rashkin and
+Brendan Roof and
+Noah A. Smith and
+Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L86-L104) <br>```ATOMIC
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```SapBABLRRSC19```
 - [![](https://img.shields.io/badge/AAAI-2017-blue)](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14972)<a href="https://scholar.google.com.hk/scholar?q=ConceptNet+5.5:+An+Open+Multilingual+Graph+of+General+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ConceptNet 5.5: An Open Multilingual Graph of General Knowledge**](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14972) , <br> by *Robyn Speer and
 Joshua Chin and
 Catherine Havasi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L33-L46) <br>```ConceptNet[1999–2017][8 million nodes 21 million links]. ConceptNet is a semantic network created by the Open Mind Common Sense (OMCS). It is a directed graph whose nodes are concepts, and the edges represent assertions of commonsense about the concepts, e.g., “is a”, “is used for”, “motivated by goal”, etc. The nodes are natural language phrases, e.g., noun phrases, verb phrases, or clauses. The latest version of the knowledge base is ConceptNet 5.5, which contains over 8 million nodes and over 21 million links.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```SpeerCH17```
+- [![](https://img.shields.io/badge/ACL-2017-blue)](https://doi.org/10.18653/v1/P17-4020)<a href="https://scholar.google.com.hk/scholar?q=WebChild+2.0+:+Fine-Grained+Commonsense+Knowledge+Distillation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**WebChild 2.0 : Fine-Grained Commonsense Knowledge Distillation**](https://doi.org/10.18653/v1/P17-4020) , <br> by *Niket Tandon and
+Gerard de Melo and
+Gerhard Weikum* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L70-L82) <br>```WebChild
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```TandonMW17```
 - [![](https://img.shields.io/badge/Artificial_Intelligence-1993-blue)](https://www.researchgate.net/profile/John-Sowa-2/publication/220545983_D_B_Lenat_and_R_V_Guha_Building_Large_Knowledge-Based_Systems_Representation_and_Inference_in_the_Cyc_Project/links/54a2cf6d0cf256bf8bb0daf1/D-B-Lenat-and-R-V-Guha-Building-Large-Knowledge-Based-Systems-Representation-and-Inference-in-the-Cyc-Project.pdf)<a href="https://scholar.google.com.hk/scholar?q=Building+large+knowledge-based+systems:+Representation+and+inference+in+the+CYC+project"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Building large knowledge-based systems: Representation and inference in the CYC project**](https://www.researchgate.net/profile/John-Sowa-2/publication/220545983_D_B_Lenat_and_R_V_Guha_Building_Large_Knowledge-Based_Systems_Representation_and_Inference_in_the_Cyc_Project/links/54a2cf6d0cf256bf8bb0daf1/D-B-Lenat-and-R-V-Guha-Building-Large-Knowledge-Based-Systems-Representation-and-Inference-in-the-Cyc-Project.pdf) , <br> by *Lenat, DB and Guha, RV* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L17-L30) <br>```OpenCyc[1984–2012][239,000 concepts 2,039,000 facts]. Concepts in Cyc are called “constants” and categorized into individuals, collections, truth functions, and functions. The Cyc project also includes an inference engine. Currently there are two releases of Cyc. OpenCyc 4.0 is the most recent public version and contains 239,000 concepts and 2,039,000 facts. ResearchCyc is licensed for research purposes and contains 500,000 concepts and 5,000,000 facts.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```lenat1993building```
+## New Benchmark
+
+- [![](https://img.shields.io/badge/EMNLP_IJCNLP-2019-blue)](https://doi.org/10.18653/v1/D19-1454)<a href="https://scholar.google.com.hk/scholar?q=Social+IQa:+Commonsense+Reasoning+about+Social+Interactions"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Social IQa: Commonsense Reasoning about Social Interactions**](https://doi.org/10.18653/v1/D19-1454) , <br> by *Maarten Sap and
+Hannah Rashkin and
+Derek Chen and
+Ronan Le Bras and
+Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L247-L261) <br>```SocialIQA
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```SapRCBC19```
+- [![](https://img.shields.io/badge/ICLR-2019-blue)](https://openreview.net/forum?id=rJ4km2R5t7)<a href="https://scholar.google.com.hk/scholar?q=GLUE:+A+Multi-Task+Benchmark+and+Analysis+Platform+for+Natural+Language+Understanding"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**GLUE: A Multi-Task Benchmark and Analysis Platform for Natural
+Language Understanding**](https://openreview.net/forum?id=rJ4km2R5t7) , <br> by *Alex Wang and
+Amanpreet Singh and
+Julian Michael and
+Felix Hill and
+Omer Levy and
+Samuel R. Bowman* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L282-L297) <br>```GLUE
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```WangSMHLB19```
+- [![](https://img.shields.io/badge/NeurIPS-2019-blue)](https://proceedings.neurips.cc/paper/2019/hash/4496bf24afe7fab6f046bf4923da8de6-Abstract.html)<a href="https://scholar.google.com.hk/scholar?q=SuperGLUE:+A+Stickier+Benchmark+for+General-Purpose+Language+Understanding+Systems"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding
+Systems**](https://proceedings.neurips.cc/paper/2019/hash/4496bf24afe7fab6f046bf4923da8de6-Abstract.html) , <br> by *Alex Wang and
+Yada Pruksachatkun and
+Nikita Nangia and
+Amanpreet Singh and
+Julian Michael and
+Felix Hill and
+Omer Levy and
+Samuel R. Bowman* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L301-L319) <br>```SuperGLUE
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```WangPNSMHLB19```
+- [![](https://img.shields.io/badge/ACL-2018-blue)](https://aclanthology.org/P18-1213/)<a href="https://scholar.google.com.hk/scholar?q=Modeling+Naive+Psychology+of+Characters+in+Simple+Commonsense+Stories"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Modeling Naive Psychology of Characters in Simple Commonsense Stories**](https://aclanthology.org/P18-1213/) , <br> by *Hannah Rashkin and
+Antoine Bosselut and
+Maarten Sap and
+Kevin Knight and
+Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L192-L206) <br>```Story Commonsense
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```KnightCSRB18```
+- [![](https://img.shields.io/badge/ACL-2018-blue)](https://aclanthology.org/P18-1043/)<a href="https://scholar.google.com.hk/scholar?q=Event2Mind:+Commonsense+Inference+on+Events,+Intents,+and+Reactions"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Event2Mind: Commonsense Inference on Events, Intents, and Reactions**](https://aclanthology.org/P18-1043/) , <br> by *Hannah Rashkin and
+Maarten Sap and
+Emily Allaway and
+Noah A. Smith and
+Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L211-L225) <br>```Event2Mind
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```SmithCSRA18```
+- [![](https://img.shields.io/badge/EMNLP-2018-blue)](https://doi.org/10.18653/v1/d18-1009)<a href="https://scholar.google.com.hk/scholar?q=SWAG:+A+Large-Scale+Adversarial+Dataset+for+Grounded+Commonsense+Inference"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense
+Inference**](https://doi.org/10.18653/v1/d18-1009) , <br> by *Rowan Zellers and
+Yonatan Bisk and
+Roy Schwartz and
+Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L229-L243) <br>```SWAG
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZellersBSC18```
+- [![](https://img.shields.io/badge/AAAI-2016-blue)](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11790)<a href="https://scholar.google.com.hk/scholar?q=Commonsense+Interpretation+of+Triangle+Behavior"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Commonsense Interpretation of Triangle Behavior**](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11790) , <br> by *Andrew S. Gordon* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L155-L165) <br>```Triangle-COPA
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```Gordon16```
+- [![](https://img.shields.io/badge/NAACL-2016-blue)](https://doi.org/10.18653/v1/n16-1098)<a href="https://scholar.google.com.hk/scholar?q=A+Corpus+and+Cloze+Evaluation+for+Deeper+Understanding+of+Commonsense+Stories"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense
+Stories**](https://doi.org/10.18653/v1/n16-1098) , <br> by *Nasrin Mostafazadeh and
+Nathanael Chambers and
+Xiaodong He and
+Devi Parikh and
+Dhruv Batra and
+Lucy Vanderwende and
+Pushmeet Kohli and
+James F. Allen* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L169-L187) <br>```ROCStories
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```MostafazadehCHP16```
+- [![](https://img.shields.io/badge/AAAI-2011-blue)](http://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2418)<a href="https://scholar.google.com.hk/scholar?q=Choice+of+Plausible+Alternatives:+An+Evaluation+of+Commonsense+Causal+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Choice of Plausible Alternatives: An Evaluation of Commonsense Causal
+Reasoning**](http://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2418) , <br> by *Melissa Roemmele and
+Cosmin Adrian Bejan and
+Andrew S. Gordon* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L139-L151) <br>```COPA
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RoemmeleBG11```
+## New Method
+
+- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573) , <br> by *Tom Young and
+Erik Cambria and
+Iti Chaturvedi and
+Hao Zhou and
+Subham Biswas and
+Minlie Huang* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L343-L359) <br>```Retrieval-based Dialogue System
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```YoungCCZBH18```
+- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710)<a href="https://scholar.google.com.hk/scholar?q=A+Knowledge-Grounded+Neural+Conversation+Model"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Knowledge-Grounded Neural Conversation Model**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710) , <br> by *Marjan Ghazvininejad and
+Chris Brockett and
+Ming{-}Wei Chang and
+Bill Dolan and
+Jianfeng Gao and
+Wen{-}tau Yih and
+Michel Galley* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L363-L381) <br>```Retrieval-based Dialogue System, 
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GhazvininejadBC18```
+- [![](https://img.shields.io/badge/IJCAI-2018-blue)](https://doi.org/10.24963/ijcai.2018/643)<a href="https://scholar.google.com.hk/scholar?q=Commonsense+Knowledge+Aware+Conversation+Generation+with+Graph+Attention"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Commonsense Knowledge Aware Conversation Generation with Graph Attention**](https://doi.org/10.24963/ijcai.2018/643) , <br> by *Hao Zhou and
+Tom Young and
+Minlie Huang and
+Haizhou Zhao and
+Jingfang Xu and
+Xiaoyan Zhu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L385-L402) <br>```Template-based Dialogue System, 
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouYHZXZ18```
+- [![](https://img.shields.io/badge/the_SIGDIAL-2015-blue)](https://doi.org/10.18653/v1/w15-4616)<a href="https://scholar.google.com.hk/scholar?q=Exploiting+knowledge+base+to+generate+responses+for+natural+language+dialog+listening+agents"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Exploiting knowledge base to generate responses for natural language
+dialog listening agents**](https://doi.org/10.18653/v1/w15-4616) , <br> by *Sangdo Han and
+Jeesoo Bang and
+Seonghan Ryu and
+Gary Geunbae Lee* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L323-L339) <br>```Template-based Dialogue System,
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```HanBRL15```
