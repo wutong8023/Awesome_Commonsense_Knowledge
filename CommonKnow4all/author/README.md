@@ -271,7 +271,7 @@ Yang Liu and
 Dilek Hakkani{-}T{\"{u}}r* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L482-L498) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouGHKPRLH21```
 ## Minlie Huang
 
-- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573) , <br> by *Tom Young and
+- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/11923)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://ojs.aaai.org/index.php/AAAI/article/view/11923) , <br> by *Tom Young and
 Erik Cambria and
 Iti Chaturvedi and
 Hao Zhou and
@@ -287,7 +287,7 @@ Xiaoyan Zhu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouYHZXZ18```
 ## Hao Zhou
 
-- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573) , <br> by *Tom Young and
+- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/11923)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://ojs.aaai.org/index.php/AAAI/article/view/11923) , <br> by *Tom Young and
 Erik Cambria and
 Iti Chaturvedi and
 Hao Zhou and
@@ -303,7 +303,7 @@ Xiaoyan Zhu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouYHZXZ18```
 ## Tom Young
 
-- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573) , <br> by *Tom Young and
+- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/11923)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://ojs.aaai.org/index.php/AAAI/article/view/11923) , <br> by *Tom Young and
 Erik Cambria and
 Iti Chaturvedi and
 Hao Zhou and
@@ -448,7 +448,7 @@ Hannah Rashkin and
 Doug Downey and
 Wen{-}tau Yih and
 Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L303-L317) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```BhagavatulaBMSH20```
-- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710)<a href="https://scholar.google.com.hk/scholar?q=A+Knowledge-Grounded+Neural+Conversation+Model"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Knowledge-Grounded Neural Conversation Model**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710) , <br> by *Marjan Ghazvininejad and
+- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/11977)<a href="https://scholar.google.com.hk/scholar?q=A+Knowledge-Grounded+Neural+Conversation+Model"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Knowledge-Grounded Neural Conversation Model**](https://ojs.aaai.org/index.php/AAAI/article/view/11977) , <br> by *Marjan Ghazvininejad and
 Chris Brockett and
 Ming{-}Wei Chang and
 Bill Dolan and
@@ -535,7 +535,7 @@ Frank Z. Xing and
 Soujanya Poria and
 Kenneth Kwok* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L65-L81) <br>```SenticNet[2009-2020][200,000 concepts]. Speciﬁcally, semantics deﬁne the denotative information associated with natural language phrases, sentics deﬁne the emotion categorization values, expressed in terms of four aﬀective dimensions associated with these concepts, and polarity is ﬂoating number between −1 and +1. The knowledge base is automatically created from multiple other resources, e.g., WordNet-Affect and OMCS.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```CambriaLXPK20```
-- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573) , <br> by *Tom Young and
+- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/11923)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://ojs.aaai.org/index.php/AAAI/article/view/11923) , <br> by *Tom Young and
 Erik Cambria and
 Iti Chaturvedi and
 Hao Zhou and

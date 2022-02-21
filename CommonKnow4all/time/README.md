@@ -169,14 +169,14 @@ Roy Schwartz and
 Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L264-L279) <br>```SWAG, Situations with Adversarial Generations is a dataset with 113,000 examples, where each example has a beginning sentence followed by four different endings. The system is supposed to choose the most plausible ending from the four choices. The examples of the dataset were filtered adversarially to ensure the problem cannot be solved by simple and
 straightforward approaches.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZellersBSC18```
-- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573) , <br> by *Tom Young and
+- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/11923)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://ojs.aaai.org/index.php/AAAI/article/view/11923) , <br> by *Tom Young and
 Erik Cambria and
 Iti Chaturvedi and
 Hao Zhou and
 Subham Biswas and
 Minlie Huang* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L384-L400) <br>```Retrieval-based Dialogue System.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```YoungCCZBH18```
-- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710)<a href="https://scholar.google.com.hk/scholar?q=A+Knowledge-Grounded+Neural+Conversation+Model"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Knowledge-Grounded Neural Conversation Model**](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710) , <br> by *Marjan Ghazvininejad and
+- [![](https://img.shields.io/badge/AAAI-2018-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/11977)<a href="https://scholar.google.com.hk/scholar?q=A+Knowledge-Grounded+Neural+Conversation+Model"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Knowledge-Grounded Neural Conversation Model**](https://ojs.aaai.org/index.php/AAAI/article/view/11977) , <br> by *Marjan Ghazvininejad and
 Chris Brockett and
 Ming{-}Wei Chang and
 Bill Dolan and
