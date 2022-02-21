@@ -166,7 +166,7 @@ Ming{-}Wei Chang and
 Bill Dolan and
 Jianfeng Gao and
 Wen{-}tau Yih and
-Michel Galley* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L406-L423) <br>```Generation-based Dialogue System, which generalized the widely used sequence-to-sequence approach by conditioning response generation on both the input conversation history and the external knowledge extracted from the unstructured grounded dataset.
+Michel Galley* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L406-L423) <br>```A Generation-based Dialogue System, which generalized the widely used sequence-to-sequence approach by conditioning response generation on both the input conversation history and the external knowledge extracted from the unstructured grounded dataset.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GhazvininejadBC18```
 - [![](https://img.shields.io/badge/AAAI-2017-blue)](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14972)<a href="https://scholar.google.com.hk/scholar?q=ConceptNet+5.5:+An+Open+Multilingual+Graph+of+General+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ConceptNet 5.5: An Open Multilingual Graph of General Knowledge**](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14972) , <br> by *Robyn Speer and
 Joshua Chin and
@@ -187,7 +187,7 @@ Tom Young and
 Minlie Huang and
 Haizhou Zhao and
 Jingfang Xu and
-Xiaoyan Zhu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L427-L443) <br>```Template-based Dialogue System, which devised a static graph attention mechanism on the relevant knowledge subgraph retrieved from ConceptNet. The retrieved knowledge graph is used in the knowledge interpreter of the encoder as well as the knowledge aware generator in the decoder.
+Xiaoyan Zhu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L427-L443) <br>```A Template-based Dialogue System, which devised a static graph attention mechanism on the relevant knowledge subgraph retrieved from ConceptNet. The retrieved knowledge graph is used in the knowledge interpreter of the encoder as well as the knowledge aware generator in the decoder.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouYHZXZ18```
 ## WWW
 
