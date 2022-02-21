@@ -135,7 +135,6 @@ including stories and books.")
     keywords  = {
     New Knowledge Base,
     Automatic,
-    Sequence Matching and Inference, 
     }
 }
 @String(ZhangLPSL20="ASER [2020] [194,000,677 nodes, 64,351,959 relations],  is a commonsense knowledge
@@ -154,7 +153,6 @@ events and possible inferences over the events. More specifically, the three typ
     keywords  = {
     New Knowledge Base,
     Automatic,
-    Question Answering,
     }
 }
 @String(IlievskiSZ21="CSKG [2021] [2,160,968 nodes, 6,001,531 edges], is a commonsense knowledge base created by consolidating and integrating several other key sources, using the proposed five principles. The resulted knowledge graph contains around 2 million nodes and 6 million edges between them.")
@@ -314,6 +312,10 @@ straightforward approaches.")
   booktitle = {Proceedings of ICLR},
   year      = {2020},
   url       = {https://openreview.net/forum?id=Byg1v1HKDB},
+    keywords = {
+  New Benchmark,
+  Inference Benchmark (2 Option),
+  }
 }
 @String(SapRCBC19="AlphaNLI. Similar to ROCStories, AlphaNLI gives two observations as input, and the system needs to choose the most plausible hypothesized event from two choices, which is supposed to have happened between the two observations. The dataset contains
 around 170,000 examples.")
@@ -333,6 +335,7 @@ around 170,000 examples.")
   url       = {https://openreview.net/forum?id=rJ4km2R5t7},
   keywords = {
   New Benchmark,
+  Natural Language Understanding Benchmark, 
   }
 }
 @String(WangSMHLB19="GLUE. The GLUE benchmark is a popular collection of resources for the evaluation of natural language processing systems, which contains multiple tasks that would require systems to have the ability of commonsense reasoning, e.g., natural language inference, textual entailment, and question answering.")
@@ -375,10 +378,9 @@ around 170,000 examples.")
   keywords  = {
     New Method,
     Dialogue System,
-    Natural Language Understanding Benchmark, 
   }
 }
-@String(HanBRL15="Template-based Dialogue System,")
+@String(HanBRL15=" A template-based Dialogue System, wich integrated Freebase into a template-based dialog system that consists of ﬁve modules. Given a user utterance, the system extracts an important name entity from it, and then scans the knowledge base to extract contents related to this entity. The extracted contents are then used to ﬁll in the slots in the response templates.")
 
 
 @inproceedings{YoungCCZBH18,
@@ -398,7 +400,7 @@ around 170,000 examples.")
     Dialogue System,
   }
 }
-@String(YoungCCZBH18="Retrieval-based Dialogue System.")
+@String(YoungCCZBH18="A Retrieval-based Dialogue System, incorporated ConceptNet into a retrieval-based chatbot. The model recovers the concepts in the input message using simple n-gram matching, and then encodes the assertions using an LSTM. The assertion with the highest score is then incorporated into the Tri-LSTM to calculate the ﬁnal score of the candidate reply. The model was trained on the Twitter Dialogue Dataset, and compared with several baselines such as supervised word embeddings and memory networks.")
 
 
 @inproceedings{GhazvininejadBC18,
@@ -419,7 +421,7 @@ around 170,000 examples.")
     Dialogue System,
   }
 }
-@String(GhazvininejadBC18="Retrieval-based Dialogue System, ")
+@String(GhazvininejadBC18="Generation-based Dialogue System, which generalized the widely used sequence-to-sequence approach by conditioning response generation on both the input conversation history and the external knowledge extracted from the unstructured grounded dataset.")
 
 
 @inproceedings{ZhouYHZXZ18,
@@ -439,7 +441,7 @@ around 170,000 examples.")
     Dialogue System,
   }
 }
-@String(ZhouYHZXZ18="Template-based Dialogue System, ")
+@String(ZhouYHZXZ18="Template-based Dialogue System, which devised a static graph attention mechanism on the relevant knowledge subgraph retrieved from ConceptNet. The retrieved knowledge graph is used in the knowledge interpreter of the encoder as well as the knowledge aware generator in the decoder.")
 
 @inproceedings{ZhongWLZWM21,
   author    = {Peixiang Zhong and
@@ -513,9 +515,9 @@ around 170,000 examples.")
   keywords  = {
     New Method,
     Dialogue System,
-  
   }
 }
+@String(WuLZZW20="A Generation-based Dialogue System,  which proposed a felicitous fact recognizer that retrieves knowledge facts from the knowledge base by considering the speciﬁc dialog context.")
 
 @inproceedings{TikhonovR21,
   author    = {Alexey Tikhonov and

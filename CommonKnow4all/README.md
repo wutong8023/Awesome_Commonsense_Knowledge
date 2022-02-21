@@ -36,23 +36,24 @@ This page categorizes the literature by their **Published Venue**..
 
 - [![](https://img.shields.io/badge/ACL_Findings-2021-blue)](https://doi.org/10.18653/v1/2021.findings-acl.310)<a href="https://scholar.google.com.hk/scholar?q=It's+All+in+the+Heads:+Using+Attention+Heads+as+a+Baseline+for+Cross-Lingual+Transfer+in+Commonsense+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**It's All in the Heads: Using Attention Heads as a Baseline for Cross-Lingual
 Transfer in Commonsense Reasoning**](https://doi.org/10.18653/v1/2021.findings-acl.310) , <br> by *Alexey Tikhonov and
-Max Ryabinin* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L520-L533) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```TikhonovR21```
+Max Ryabinin* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L522-L535) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```TikhonovR21```
 - [![](https://img.shields.io/badge/ACL-2021-blue)](https://doi.org/10.18653/v1/2021.acl-long.102)<a href="https://scholar.google.com.hk/scholar?q=Common+Sense+Beyond+English:+Evaluating+and+Improving+Multilingual+Language+Models+for+Commonsense+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Common Sense Beyond English: Evaluating and Improving Multilingual
 Language Models for Commonsense Reasoning**](https://doi.org/10.18653/v1/2021.acl-long.102) , <br> by *Bill Yuchen Lin and
 Seyeon Lee and
 Xiaoyang Qiao and
-Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L535-L549) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LinLQ020```
+Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L537-L551) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LinLQ020```
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://doi.org/10.18653/v1/2020.acl-main.515)<a href="https://scholar.google.com.hk/scholar?q=Diverse+and+Informative+Dialogue+Generation+with+Context-Specific+Commonsense+Knowledge+Awareness"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Diverse and Informative Dialogue Generation with Context-Specific
 Commonsense Knowledge Awareness**](https://doi.org/10.18653/v1/2020.acl-main.515) , <br> by *Sixing Wu and
 Ying Li and
 Dawei Zhang and
 Yang Zhou and
-Zhonghai Wu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L501-L518) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```WuLZZW20```
+Zhonghai Wu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L503-L519) <br>```A Generation-based Dialogue System,  which proposed a felicitous fact recognizer that retrieves knowledge facts from the knowledge base by considering the speciﬁc dialog context.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```WuLZZW20```
 - [![](https://img.shields.io/badge/ACL-2018-blue)](https://aclanthology.org/P18-1213/)<a href="https://scholar.google.com.hk/scholar?q=Modeling+Naive+Psychology+of+Characters+in+Simple+Commonsense+Stories"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Modeling Naive Psychology of Characters in Simple Commonsense Stories**](https://aclanthology.org/P18-1213/) , <br> by *Hannah Rashkin and
 Antoine Bosselut and
 Maarten Sap and
 Kevin Knight and
-Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L220-L237) <br>```Story Commonsense. Story Commonsense [Rashkin et al., 2018a] is a dataset
+Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L218-L235) <br>```Story Commonsense. Story Commonsense [Rashkin et al., 2018a] is a dataset
 derived from ROCStories [Mostafazadeh et al., 2016] by annotating the emotions and motivations of the characters. The dataset contains 160,000 examples.
 Three classification tasks are involved, namely, the prediction of Maslow’s basic human needs, the prediction of Reiss’ human motives, and the prediction of Plutchik’s eight emotions.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```KnightCSRB18```
@@ -60,7 +61,7 @@ Three classification tasks are involved, namely, the prediction of Maslow’s ba
 Maarten Sap and
 Emily Allaway and
 Noah A. Smith and
-Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L244-L260) <br>```Event2Mind, Event2Mind contains around 57,000 annotations of intents and reactions for around 25,000 events extracted from various corpora including ROCStories [Mostafazadeh et al., 2016]. Given an event with one or two participants, the system is supposed to predict the intents and reactions of the primary participant, and the reactions of the other participant.
+Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L242-L258) <br>```Event2Mind, Event2Mind contains around 57,000 annotations of intents and reactions for around 25,000 events extracted from various corpora including ROCStories [Mostafazadeh et al., 2016]. Given an event with one or two participants, the system is supposed to predict the intents and reactions of the primary participant, and the reactions of the other participant.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```SmithCSRA18```
 - [![](https://img.shields.io/badge/ACL-2017-blue)](https://doi.org/10.18653/v1/P17-4020)<a href="https://scholar.google.com.hk/scholar?q=WebChild+2.0+:+Fine-Grained+Commonsense+Knowledge+Distillation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**WebChild 2.0 : Fine-Grained Commonsense Knowledge Distillation**](https://doi.org/10.18653/v1/P17-4020) , <br> by *Niket Tandon and
 Gerard de Melo and
@@ -73,19 +74,19 @@ Pegah Jandaghi and
 Hyundong Cho and
 Bill Yuchen Lin and
 Jay Pujara and
-Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L463-L480) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouJCLPR21```
+Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L465-L482) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouJCLPR21```
 - [![](https://img.shields.io/badge/EMNLP_IJCNLP-2019-blue)](https://doi.org/10.18653/v1/D19-1454)<a href="https://scholar.google.com.hk/scholar?q=Social+IQa:+Commonsense+Reasoning+about+Social+Interactions"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Social IQa: Commonsense Reasoning about Social Interactions**](https://doi.org/10.18653/v1/D19-1454) , <br> by *Maarten Sap and
 Hannah Rashkin and
 Derek Chen and
 Ronan Le Bras and
-Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L284-L299) <br>```AlphaNLI. Similar to ROCStories, AlphaNLI gives two observations as input, and the system needs to choose the most plausible hypothesized event from two choices, which is supposed to have happened between the two observations. The dataset contains
+Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L282-L297) <br>```AlphaNLI. Similar to ROCStories, AlphaNLI gives two observations as input, and the system needs to choose the most plausible hypothesized event from two choices, which is supposed to have happened between the two observations. The dataset contains
 around 170,000 examples.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```SapRCBC19```
 - [![](https://img.shields.io/badge/EMNLP-2018-blue)](https://doi.org/10.18653/v1/d18-1009)<a href="https://scholar.google.com.hk/scholar?q=SWAG:+A+Large-Scale+Adversarial+Dataset+for+Grounded+Commonsense+Inference"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense
 Inference**](https://doi.org/10.18653/v1/d18-1009) , <br> by *Rowan Zellers and
 Yonatan Bisk and
 Roy Schwartz and
-Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L264-L279) <br>```SWAG, Situations with Adversarial Generations is a dataset with 113,000 examples, where each example has a beginning sentence followed by four different endings. The system is supposed to choose the most plausible ending from the four choices. The examples of the dataset were filtered adversarially to ensure the problem cannot be solved by simple and
+Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L262-L277) <br>```SWAG, Situations with Adversarial Generations is a dataset with 113,000 examples, where each example has a beginning sentence followed by four different endings. The system is supposed to choose the most plausible ending from the four choices. The examples of the dataset were filtered adversarially to ensure the problem cannot be solved by simple and
 straightforward approaches.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZellersBSC18```
 ## NAACL
@@ -98,7 +99,7 @@ Devi Parikh and
 Dhruv Batra and
 Lucy Vanderwende and
 Pushmeet Kohli and
-James F. Allen* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L195-L214) <br>```ROCStories. ROCStories  contains 50,000 daily stories consisting of five sentences. During evaluation, a story is given, followed
+James F. Allen* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L193-L212) <br>```ROCStories. ROCStories  contains 50,000 daily stories consisting of five sentences. During evaluation, a story is given, followed
 by two choices, of which one is a plausible ending and the other is an implausible ending. The system needs to choose the correct one from the two options.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```MostafazadehCHP16```
 ## ICLR
@@ -111,14 +112,14 @@ Ari Holtzman and
 Hannah Rashkin and
 Doug Downey and
 Wen{-}tau Yih and
-Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L303-L317) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```BhagavatulaBMSH20```
+Yejin Choi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L301-L319) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```BhagavatulaBMSH20```
 - [![](https://img.shields.io/badge/ICLR-2019-blue)](https://openreview.net/forum?id=rJ4km2R5t7)<a href="https://scholar.google.com.hk/scholar?q=GLUE:+A+Multi-Task+Benchmark+and+Analysis+Platform+for+Natural+Language+Understanding"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**GLUE: A Multi-Task Benchmark and Analysis Platform for Natural
 Language Understanding**](https://openreview.net/forum?id=rJ4km2R5t7) , <br> by *Alex Wang and
 Amanpreet Singh and
 Julian Michael and
 Felix Hill and
 Omer Levy and
-Samuel R. Bowman* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L322-L337) <br>```GLUE. The GLUE benchmark is a popular collection of resources for the evaluation of natural language processing systems, which contains multiple tasks that would require systems to have the ability of commonsense reasoning, e.g., natural language inference, textual entailment, and question answering.
+Samuel R. Bowman* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L324-L340) <br>```GLUE. The GLUE benchmark is a popular collection of resources for the evaluation of natural language processing systems, which contains multiple tasks that would require systems to have the ability of commonsense reasoning, e.g., natural language inference, textual entailment, and question answering.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```WangSMHLB19```
 ## NeurIPS
 
@@ -130,7 +131,7 @@ Amanpreet Singh and
 Julian Michael and
 Felix Hill and
 Omer Levy and
-Samuel R. Bowman* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L341-L360) <br>```SuperGLUE. The SuperGLUE benchmark improves the GLUE benchmark by incorporating more diﬃcult natural language understanding tasks, to accommodate the increasingly powerful natural language processing systems in recent years.
+Samuel R. Bowman* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L344-L363) <br>```SuperGLUE. The SuperGLUE benchmark improves the GLUE benchmark by incorporating more diﬃcult natural language understanding tasks, to accommodate the increasingly powerful natural language processing systems in recent years.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```WangPNSMHLB19```
 ## AAAI
 
@@ -140,7 +141,7 @@ Di Wang and
 Pengfei Li and
 Chen Zhang and
 Hao Wang and
-Chunyan Miao* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L444-L461) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhongWLZWM21```
+Chunyan Miao* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L446-L463) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhongWLZWM21```
 - [![](https://img.shields.io/badge/AAAI-2019-blue)](https://doi.org/10.1609/aaai.v33i01.33013027)<a href="https://scholar.google.com.hk/scholar?q=ATOMIC:+An+Atlas+of+Machine+Commonsense+for+If-Then+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning**](https://doi.org/10.1609/aaai.v33i01.33013027) , <br> by *Maarten Sap and
 Ronan Le Bras and
 Emily Allaway and
@@ -157,7 +158,7 @@ Erik Cambria and
 Iti Chaturvedi and
 Hao Zhou and
 Subham Biswas and
-Minlie Huang* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L384-L400) <br>```Retrieval-based Dialogue System.
+Minlie Huang* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L386-L402) <br>```A Retrieval-based Dialogue System, incorporated ConceptNet into a retrieval-based chatbot. The model recovers the concepts in the input message using simple n-gram matching, and then encodes the assertions using an LSTM. The assertion with the highest score is then incorporated into the Tri-LSTM to calculate the ﬁnal score of the candidate reply. The model was trained on the Twitter Dialogue Dataset, and compared with several baselines such as supervised word embeddings and memory networks.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```YoungCCZBH18```
 - [![](https://img.shields.io/badge/AAAI-2018-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/11977)<a href="https://scholar.google.com.hk/scholar?q=A+Knowledge-Grounded+Neural+Conversation+Model"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Knowledge-Grounded Neural Conversation Model**](https://ojs.aaai.org/index.php/AAAI/article/view/11977) , <br> by *Marjan Ghazvininejad and
 Chris Brockett and
@@ -165,18 +166,18 @@ Ming{-}Wei Chang and
 Bill Dolan and
 Jianfeng Gao and
 Wen{-}tau Yih and
-Michel Galley* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L404-L421) <br>```Retrieval-based Dialogue System, 
+Michel Galley* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L406-L423) <br>```Generation-based Dialogue System, which generalized the widely used sequence-to-sequence approach by conditioning response generation on both the input conversation history and the external knowledge extracted from the unstructured grounded dataset.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```GhazvininejadBC18```
 - [![](https://img.shields.io/badge/AAAI-2017-blue)](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14972)<a href="https://scholar.google.com.hk/scholar?q=ConceptNet+5.5:+An+Open+Multilingual+Graph+of+General+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ConceptNet 5.5: An Open Multilingual Graph of General Knowledge**](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14972) , <br> by *Robyn Speer and
 Joshua Chin and
 Catherine Havasi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L47-L60) <br>```ConceptNet[1999–2017][8 million nodes 21 million links]. ConceptNet is a semantic network created by the Open Mind Common Sense. It is a directed graph whose nodes are concepts, and the edges represent assertions of commonsense about the concepts, e.g., “is a”, “is used for”, “motivated by goal”, etc. The nodes are natural language phrases, e.g., noun phrases, verb phrases, or clauses. The latest version of the knowledge base is ConceptNet 5.5, which contains over 8 million nodes and over 21 million links.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```SpeerCH17```
-- [![](https://img.shields.io/badge/AAAI-2016-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/9881)<a href="https://scholar.google.com.hk/scholar?q=Commonsense+Interpretation+of+Triangle+Behavior"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Commonsense Interpretation of Triangle Behavior**](https://ojs.aaai.org/index.php/AAAI/article/view/9881) , <br> by *Andrew S. Gordon* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L180-L191) <br>```Triangle-COPA. Triangle-COPA is a variation of COPA with 100 examples in the same format but accompanied with videos. The videos show situations where a circle and a triangle interact with each other. The questions asked are more focused on emotions and intentions.
+- [![](https://img.shields.io/badge/AAAI-2016-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/9881)<a href="https://scholar.google.com.hk/scholar?q=Commonsense+Interpretation+of+Triangle+Behavior"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Commonsense Interpretation of Triangle Behavior**](https://ojs.aaai.org/index.php/AAAI/article/view/9881) , <br> by *Andrew S. Gordon* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L178-L189) <br>```Triangle-COPA. Triangle-COPA is a variation of COPA with 100 examples in the same format but accompanied with videos. The videos show situations where a circle and a triangle interact with each other. The questions asked are more focused on emotions and intentions.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```Gordon16```
 - [![](https://img.shields.io/badge/AAAI-2011-blue)](https://www.aaai.org/ocs/index.php/SSS/SSS11/paper/viewPaper/2418)<a href="https://scholar.google.com.hk/scholar?q=Choice+of+Plausible+Alternatives:+An+Evaluation+of+Commonsense+Causal+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Choice of Plausible Alternatives: An Evaluation of Commonsense Causal
 Reasoning**](https://www.aaai.org/ocs/index.php/SSS/SSS11/paper/viewPaper/2418) , <br> by *Melissa Roemmele and
 Cosmin Adrian Bejan and
-Andrew S. Gordon* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L162-L175) <br>```COPA, The Choice of Plausible Alternatives involves causal inference between events. The dataset contains 1,000 examples in total, and in each example, an event is given, followed by a question asking
+Andrew S. Gordon* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L160-L173) <br>```COPA, The Choice of Plausible Alternatives involves causal inference between events. The dataset contains 1,000 examples in total, and in each example, an event is given, followed by a question asking
 for the correct effect or cause from two options.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```RoemmeleBG11```
 ## IJCAI
@@ -186,7 +187,7 @@ Tom Young and
 Minlie Huang and
 Haizhou Zhao and
 Jingfang Xu and
-Xiaoyan Zhu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L425-L441) <br>```Template-based Dialogue System, 
+Xiaoyan Zhu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L427-L443) <br>```Template-based Dialogue System, which devised a static graph attention mechanism on the relevant knowledge subgraph retrieved from ConceptNet. The retrieved knowledge graph is used in the knowledge interpreter of the encoder as well as the knowledge aware generator in the decoder.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouYHZXZ18```
 ## WWW
 
@@ -194,7 +195,7 @@ Xiaoyan Zhu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge
 Xin Liu and
 Haojie Pan and
 Yangqiu Song and
-Cane Wing{-}Ki Leung* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L124-L140) <br>```ASER [2020] [194,000,677 nodes, 64,351,959 relations],  is a commonsense knowledge
+Cane Wing{-}Ki Leung* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L124-L139) <br>```ASER [2020] [194,000,677 nodes, 64,351,959 relations],  is a commonsense knowledge
 graph consisting of 877K textual descriptions of inferential knowledge obtained from crowdsourcing. The knowledge graph focuses on if-then relations between
 events and possible inferences over the events. More specifically, the three types of relation are: “If-Event-Then-Mental-State”, “If-Event-Then-Event”, and “IfEvent-Then-Persona”. The base events were extracted from a variety of corpora including stories and books.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhangLPSL20```
@@ -202,7 +203,7 @@ events and possible inferences over the events. More specifically, the three typ
 
 - [![](https://img.shields.io/badge/ESWC-2021-blue)](https://doi.org/10.1007/978-3-030-77385-4\_41)<a href="https://scholar.google.com.hk/scholar?q=CSKG:+The+CommonSense+Knowledge+Graph"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CSKG: The CommonSense Knowledge Graph**](https://doi.org/10.1007/978-3-030-77385-4\_41) , <br> by *Filip Ilievski and
 Pedro A. Szekely and
-Bin Zhang* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L145-L159) <br>```CSKG [2021] [2,160,968 nodes, 6,001,531 edges], is a commonsense knowledge base created by consolidating and integrating several other key sources, using the proposed five principles. The resulted knowledge graph contains around 2 million nodes and 6 million edges between them.
+Bin Zhang* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L144-L157) <br>```CSKG [2021] [2,160,968 nodes, 6,001,531 edges], is a commonsense knowledge base created by consolidating and integrating several other key sources, using the proposed five principles. The resulted knowledge graph contains around 2 million nodes and 6 million edges between them.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```IlievskiSZ21```
 ## SIGDIAL
 
@@ -214,7 +215,7 @@ Seokhwan Kim and
 Jay Pujara and
 Xiang Ren and
 Yang Liu and
-Dilek Hakkani{-}T{\"{u}}r* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L482-L498) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouGHKPRLH21```
+Dilek Hakkani{-}T{\"{u}}r* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L484-L500) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouGHKPRLH21```
 ## arXiv
 
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://arxiv.org/abs/2201.12438)<a href="https://scholar.google.com.hk/scholar?q=Commonsense+Knowledge+Reasoning+and+Generation+with+Pre-trained+Language+Models:+A+Survey"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Commonsense Knowledge Reasoning and Generation with Pre-trained Language

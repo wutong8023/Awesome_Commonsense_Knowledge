@@ -45,7 +45,7 @@ Catherine Havasi* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Know
 
 - [![](https://img.shields.io/badge/ESWC-2021-blue)](https://doi.org/10.1007/978-3-030-77385-4\_41)<a href="https://scholar.google.com.hk/scholar?q=CSKG:+The+CommonSense+Knowledge+Graph"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**CSKG: The CommonSense Knowledge Graph**](https://doi.org/10.1007/978-3-030-77385-4\_41) , <br> by *Filip Ilievski and
 Pedro A. Szekely and
-Bin Zhang* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L145-L159) <br>```CSKG [2021] [2,160,968 nodes, 6,001,531 edges], is a commonsense knowledge base created by consolidating and integrating several other key sources, using the proposed five principles. The resulted knowledge graph contains around 2 million nodes and 6 million edges between them.
+Bin Zhang* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L144-L157) <br>```CSKG [2021] [2,160,968 nodes, 6,001,531 edges], is a commonsense knowledge base created by consolidating and integrating several other key sources, using the proposed five principles. The resulted knowledge graph contains around 2 million nodes and 6 million edges between them.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```IlievskiSZ21```
 - [![](https://img.shields.io/badge/CIKM-2020-blue)](https://doi.org/10.1145/3340531.3412003)<a href="https://scholar.google.com.hk/scholar?q=SenticNet+6:+Ensemble+Application+of+Symbolic+and+Subsymbolic+AI+for+Sentiment+Analysis"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**SenticNet 6: Ensemble Application of Symbolic and Subsymbolic AI
 for Sentiment Analysis**](https://doi.org/10.1145/3340531.3412003) , <br> by *Erik Cambria and
@@ -58,7 +58,7 @@ Kenneth Kwok* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledg
 Xin Liu and
 Haojie Pan and
 Yangqiu Song and
-Cane Wing{-}Ki Leung* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L124-L140) <br>```ASER [2020] [194,000,677 nodes, 64,351,959 relations],  is a commonsense knowledge
+Cane Wing{-}Ki Leung* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L124-L139) <br>```ASER [2020] [194,000,677 nodes, 64,351,959 relations],  is a commonsense knowledge
 graph consisting of 877K textual descriptions of inferential knowledge obtained from crowdsourcing. The knowledge graph focuses on if-then relations between
 events and possible inferences over the events. More specifically, the three types of relation are: “If-Event-Then-Mental-State”, “If-Event-Then-Event”, and “IfEvent-Then-Persona”. The base events were extracted from a variety of corpora including stories and books.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhangLPSL20```

@@ -75,7 +75,6 @@ fined_taxonomy = {
     
     # 5: Utilization Method
     "Knowledge Utilization": [
-        
         "Other Utilization Method",
         ],
     
