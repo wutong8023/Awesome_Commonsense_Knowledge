@@ -6,7 +6,7 @@ Time: 24-06-2021
 """
 user_id = "wutong8023"  # github id
 author_info = "Tongtong Wu"  # used in introduction
-personal_link = "https://wutong8023.site"  # used in introduction
+personal_link = ""  # used in introduction
 repo_name = "Awesome_Commonsense_Knowledge"  # repository name
 branch_name = "blob/main"  # branch name
 your_research_topic = "CommonKnow"  # used for dictionary name

@@ -1,5 +1,5 @@
 # Commonsense Knowledge Construction and Application Literature 
-This repository is maintained by [Tongtong Wu](https://wutong8023.site). Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). 
+This repository is maintained by [Tongtong Wu](). Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). 
 The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
 You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/rgscdxhxbwhp).
