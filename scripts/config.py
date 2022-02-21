@@ -68,18 +68,30 @@ fined_taxonomy = {
         "Relation Extraction", 
         "Event Extraction",   
         "Question Answering",
+        "Sequence Matching and Inference", 
         "Dialogue System", 
         "Other Application", 
         ],
     
     # 5: Utilization Method
     "Knowledge Utilization": [
+        
         "Other Utilization Method",
         ],
     
     
     # 6: Benchmarks
     "Benchmarks": {
+        "Question Answering Benchmark (2 Option)",
+        "Question Answering Benchmark (3 Option)",
+        "Inference Benchmark (2 Option)",
+        "Inference Benchmark (4 Option)", 
+        "Emotion Classification Benchmark", 
+        "Human Needs Classification Benchmark", 
+        "Motivation Classification Benchmark",
+        "Intent Classification Benchmark", 
+        "Reaction Classification Benchmark",  
+        "Natural Language Understanding Benchmark", 
         "Other Benchmarks"
     }
 

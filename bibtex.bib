@@ -58,7 +58,7 @@
     Crowdsourcing,
   }
 }
-@String(SpeerCH17="ConceptNet[1999–2017][8 million nodes 21 million links]. ConceptNet is a semantic network created by the Open Mind Common Sense (OMCS). It is a directed graph whose nodes are concepts, and the edges represent assertions of commonsense about the concepts, e.g., “is a”, “is used for”, “motivated by goal”, etc. The nodes are natural language phrases, e.g., noun phrases, verb phrases, or clauses. The latest version of the knowledge base is ConceptNet 5.5, which contains over 8 million nodes and over 21 million links.")
+@String(SpeerCH17="ConceptNet[1999–2017][8 million nodes 21 million links]. ConceptNet is a semantic network created by the Open Mind Common Sense. It is a directed graph whose nodes are concepts, and the edges represent assertions of commonsense about the concepts, e.g., “is a”, “is used for”, “motivated by goal”, etc. The nodes are natural language phrases, e.g., noun phrases, verb phrases, or clauses. The latest version of the knowledge base is ConceptNet 5.5, which contains over 8 million nodes and over 21 million links.")
 
 
 
@@ -92,9 +92,10 @@
   url       = {https://doi.org/10.18653/v1/P17-4020},
   keywords  = {
     New Knowledge Base,
+    Automatic,
     }
 }
-@String(TandonMW17="WebChild")
+@String(TandonMW17="WebChild [2014-2017] [2 million concepts, 18 million assertions], is a large-scale commonsense knowledge base that was automatically extracted and disambiguated from Web contents, using semi-supervised label propagation over graphs of noisy candidate assertions. The knowledge base contains triples that connect nouns with adjectives via fine-grained relations like “hasShape”, “hasTaste”, “evokesEmotion”, etc. The arguments of these assertions, nouns and adjectives, are disambiguated by mapping them onto their proper WordNet senses.")
 
 
 @inproceedings{SapBABLRRSC19,
@@ -114,9 +115,11 @@
   url       = {https://doi.org/10.1609/aaai.v33i01.33013027},
     keywords  = {
     New Knowledge Base,
+    Crowdsourcing,
     }
 }
-@String(SapBABLRRSC19="ATOMIC")
+@String(SapBABLRRSC19="ATOMIC [2019] [309,515 nodes, 877,108 triples], is a commonsense knowledge graph consisting of 877K textual descriptions of inferential knowledge obtained from crowdsourcing. The knowledge graph focuses on if-then relations between events and possible inferences over the events. More specifically, the three types of relation are: “If-Event-Then-Mental-State”, “If-Event-Then-Event”, and “IfEvent-Then-Persona”. The base events were extracted from a variety of corpora
+including stories and books.")
 
 @inproceedings{ZhangLPSL20,
   author    = {Hongming Zhang and
@@ -131,9 +134,13 @@
   url       = {https://doi.org/10.1145/3366423.3380107},
     keywords  = {
     New Knowledge Base,
+    Automatic,
+    Sequence Matching and Inference, 
     }
 }
-@String(ZhangLPSL20="ASER")
+@String(ZhangLPSL20="ASER [2020] [194,000,677 nodes, 64,351,959 relations],  is a commonsense knowledge
+graph consisting of 877K textual descriptions of inferential knowledge obtained from crowdsourcing. The knowledge graph focuses on if-then relations between
+events and possible inferences over the events. More specifically, the three types of relation are: “If-Event-Then-Mental-State”, “If-Event-Then-Event”, and “IfEvent-Then-Persona”. The base events were extracted from a variety of corpora including stories and books.")
 
 @inproceedings{IlievskiSZ21,
   author    = {Filip Ilievski and
@@ -146,9 +153,11 @@
   url       = {https://doi.org/10.1007/978-3-030-77385-4\_41},
     keywords  = {
     New Knowledge Base,
+    Automatic,
+    Question Answering,
     }
 }
-@String(IlievskiSZ21="CSKG")
+@String(IlievskiSZ21="CSKG [2021] [2,160,968 nodes, 6,001,531 edges], is a commonsense knowledge base created by consolidating and integrating several other key sources, using the proposed five principles. The resulted knowledge graph contains around 2 million nodes and 6 million edges between them.")
 
 @inproceedings{RoemmeleBG11,
   author    = {Melissa Roemmele and
@@ -161,9 +170,11 @@
   url       = {http://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2418},
   keywords = {
   New Benchmark,
+  Question Answering Benchmark (2 Option), 
   }
 }
-@String(RoemmeleBG11="COPA")
+@String(RoemmeleBG11="COPA, The Choice of Plausible Alternatives involves causal inference between events. The dataset contains 1,000 examples in total, and in each example, an event is given, followed by a question asking
+for the correct effect or cause from two options.")
 
 
 @inproceedings{Gordon16,
@@ -175,9 +186,10 @@
   url       = {http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11790},
     keywords = {
   New Benchmark,
+  Question Answering Benchmark (2 Option), 
   }
 }
-@String(Gordon16="Triangle-COPA")
+@String(Gordon16="Triangle-COPA. Triangle-COPA is a variation of COPA with 100 examples in the same format but accompanied with videos. The videos show situations where a circle and a triangle interact with each other. The questions asked are more focused on emotions and intentions.")
 
 
 @inproceedings{MostafazadehCHP16,
@@ -197,9 +209,11 @@
   url       = {https://doi.org/10.18653/v1/n16-1098},
   keywords = {
   New Benchmark,
+  Inference Benchmark (2 Option), 
   }
 }
-@String(MostafazadehCHP16="ROCStories")
+@String(MostafazadehCHP16="ROCStories. ROCStories  contains 50,000 daily stories consisting of five sentences. During evaluation, a story is given, followed
+by two choices, of which one is a plausible ending and the other is an implausible ending. The system needs to choose the correct one from the two options.")
 
 
 
@@ -216,9 +230,14 @@
   url       = {https://aclanthology.org/P18-1213/},
     keywords = {
   New Benchmark,
+  Emotion Classification Benchmark,
+  Human Needs Classification Benchmark,
+  Motivation Classification Benchmark, 
   }
 }
-@String(KnightCSRB18="Story Commonsense")
+@String(KnightCSRB18="Story Commonsense. Story Commonsense [Rashkin et al., 2018a] is a dataset
+derived from ROCStories [Mostafazadeh et al., 2016] by annotating the emotions and motivations of the characters. The dataset contains 160,000 examples.
+Three classification tasks are involved, namely, the prediction of Maslow’s basic human needs, the prediction of Reiss’ human motives, and the prediction of Plutchik’s eight emotions.")
 
 
 
@@ -235,9 +254,11 @@
   url       = {https://aclanthology.org/P18-1043/},
     keywords = {
   New Benchmark,
+  Intent Classification Benchmark, 
+  Reaction Classification Benchmark
   }
 }
-@String(SmithCSRA18="Event2Mind")
+@String(SmithCSRA18="Event2Mind, Event2Mind contains around 57,000 annotations of intents and reactions for around 25,000 events extracted from various corpora including ROCStories [Mostafazadeh et al., 2016]. Given an event with one or two participants, the system is supposed to predict the intents and reactions of the primary participant, and the reactions of the other participant.")
 
 
 @inproceedings{ZellersBSC18,
@@ -253,9 +274,11 @@
   url       = {https://doi.org/10.18653/v1/d18-1009},
     keywords = {
   New Benchmark,
+  Inference Benchmark (4 Option)
   }
 }
-@String(ZellersBSC18="SWAG")
+@String(ZellersBSC18="SWAG, Situations with Adversarial Generations is a dataset with 113,000 examples, where each example has a beginning sentence followed by four different endings. The system is supposed to choose the most plausible ending from the four choices. The examples of the dataset were filtered adversarially to ensure the problem cannot be solved by simple and
+straightforward approaches.")
 
 
 @inproceedings{SapRCBC19,
@@ -269,11 +292,12 @@
   pages     = {4462--4472},
   year      = {2019},
   url       = {https://doi.org/10.18653/v1/D19-1454},
-    keywords = {
+  keywords = {
   New Benchmark,
+  Question Answering Benchmark (3 Option),
   }
 }
-@String(SapRCBC19="SocialIQA")
+@String(SapRCBC19="SocialIQA. SocialIQA is a crowdsourced benchmark containing 38,000 multiple choice questions for the purpose of probing emotional and social intelligence in everyday situations. Each example has a brief context and a question regarding the context, and the system is supposed to choose the correct answer from three options.")
 
 
 @inproceedings{BhagavatulaBMSH20,
@@ -291,6 +315,8 @@
   year      = {2020},
   url       = {https://openreview.net/forum?id=Byg1v1HKDB},
 }
+@String(SapRCBC19="AlphaNLI. Similar to ROCStories, AlphaNLI gives two observations as input, and the system needs to choose the most plausible hypothesized event from two choices, which is supposed to have happened between the two observations. The dataset contains
+around 170,000 examples.")
 
 
 @inproceedings{WangSMHLB19,
@@ -309,7 +335,7 @@
   New Benchmark,
   }
 }
-@String(WangSMHLB19="GLUE")
+@String(WangSMHLB19="GLUE. The GLUE benchmark is a popular collection of resources for the evaluation of natural language processing systems, which contains multiple tasks that would require systems to have the ability of commonsense reasoning, e.g., natural language inference, textual entailment, and question answering.")
 
 
 @inproceedings{WangPNSMHLB19,
@@ -329,9 +355,10 @@
   url       = {https://proceedings.neurips.cc/paper/2019/hash/4496bf24afe7fab6f046bf4923da8de6-Abstract.html},
   keywords = {
     New Benchmark,
+    Natural Language Understanding Benchmark, 
   }
 }
-@String(WangPNSMHLB19="SuperGLUE")
+@String(WangPNSMHLB19="SuperGLUE. The SuperGLUE benchmark improves the GLUE benchmark by incorporating more diﬃcult natural language understanding tasks, to accommodate the increasingly powerful natural language processing systems in recent years.")
 
 
 @inproceedings{HanBRL15,
@@ -348,7 +375,7 @@
   keywords  = {
     New Method,
     Dialogue System,
-
+    Natural Language Understanding Benchmark, 
   }
 }
 @String(HanBRL15="Template-based Dialogue System,")
@@ -371,7 +398,7 @@
     Dialogue System,
   }
 }
-@String(YoungCCZBH18="Retrieval-based Dialogue System")
+@String(YoungCCZBH18="Retrieval-based Dialogue System.")
 
 
 @inproceedings{GhazvininejadBC18,
@@ -390,7 +417,6 @@
   keywords  = {
     New Method,
     Dialogue System,
-  
   }
 }
 @String(GhazvininejadBC18="Retrieval-based Dialogue System, ")
@@ -411,7 +437,6 @@
   keywords  = {
     New Method,
     Dialogue System,
-  
   }
 }
 @String(ZhouYHZXZ18="Template-based Dialogue System, ")
@@ -432,7 +457,6 @@
   keywords  = {
     New Method,
     Dialogue System,
-  
   }
 }
 
@@ -505,7 +529,21 @@
   keywords  = {
     New Method,
     Dialogue System,
-  
   }
 }
 
+@inproceedings{LinLQ020,
+  author    = {Bill Yuchen Lin and
+               Seyeon Lee and
+               Xiaoyang Qiao and
+               Xiang Ren},
+  title     = {Common Sense Beyond English: Evaluating and Improving Multilingual
+               Language Models for Commonsense Reasoning},
+  booktitle = {Proceedings of ACL},
+  pages     = {1274--1287},
+  year      = {2021},
+  url       = {https://doi.org/10.18653/v1/2021.acl-long.102},
+  keywords  = {
+  New Benchmark,
+  }
+}
