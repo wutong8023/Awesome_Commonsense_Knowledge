@@ -75,6 +75,8 @@ fined_taxonomy = {
     
     # 5: Utilization Method
     "Knowledge Utilization": [
+        "Attention-based Method", 
+        "Explanation-based Method", 
         "Other Utilization Method",
         ],
     
@@ -85,6 +87,7 @@ fined_taxonomy = {
         "Question Answering Benchmark (3 Option)",
         "Inference Benchmark (2 Option)",
         "Inference Benchmark (4 Option)", 
+        "Cross-lingual Reasoning Benchmark",
         "Emotion Classification Benchmark", 
         "Human Needs Classification Benchmark", 
         "Motivation Classification Benchmark",
