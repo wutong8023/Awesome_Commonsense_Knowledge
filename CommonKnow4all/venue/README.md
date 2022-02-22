@@ -44,7 +44,14 @@ described in previously published works.
 Language Models for Commonsense Reasoning**](https://doi.org/10.18653/v1/2021.acl-long.102) , <br> by *Bill Yuchen Lin and
 Seyeon Lee and
 Xiaoyang Qiao and
-Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L545-L559) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LinLQ020```
+Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L545-L562) <br>``` To obtain data
+for commonsense-focused analysis in open domain
+response generation, we use two strategies: filtering existing dialogue data using a commonsense
+knowledge graph ConcepetNet, and collecting new
+dialogues using prompts from multiple-choice commonsense benchmark. To close the gap in automatic evaluation metric for response generation, we propose a
+simple MLP regressor using both neural and symbolic features, and show promising correlation with
+human judgements.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LinLQ020```
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://doi.org/10.18653/v1/2020.acl-main.515)<a href="https://scholar.google.com.hk/scholar?q=Diverse+and+Informative+Dialogue+Generation+with+Context-Specific+Commonsense+Knowledge+Awareness"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Diverse and Informative Dialogue Generation with Context-Specific
 Commonsense Knowledge Awareness**](https://doi.org/10.18653/v1/2020.acl-main.515) , <br> by *Sixing Wu and
 Ying Li and
