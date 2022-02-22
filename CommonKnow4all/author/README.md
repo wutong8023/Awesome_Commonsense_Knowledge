@@ -4,7 +4,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/rgscdxhxbwhp).
 
-This page categorizes the literature by their **Authors** who contributed at least 2 papers in this area..
+This page categorizes the literature by their **Authors** who contributed at least 2 papers in this area.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/author/README.md#hyperlink)
@@ -188,18 +188,20 @@ Seokhwan Kim and
 Jay Pujara and
 Xiang Ren and
 Yang Liu and
-Dilek Hakkani{-}T{\"{u}}r* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L488-L504) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouGHKPRLH21```
-- [![](https://img.shields.io/badge/ACL-2021-blue)](https://doi.org/10.18653/v1/2021.acl-long.102)<a href="https://scholar.google.com.hk/scholar?q=Common+Sense+Beyond+English:+Evaluating+and+Improving+Multilingual+Language+Models+for+Commonsense+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Common Sense Beyond English: Evaluating and Improving Multilingual
-Language Models for Commonsense Reasoning**](https://doi.org/10.18653/v1/2021.acl-long.102) , <br> by *Bill Yuchen Lin and
-Seyeon Lee and
-Xiaoyang Qiao and
-Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L545-L562) <br>``` To obtain data
+Dilek Hakkani{-}T{\"{u}}r* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L488-L504) <br>```To obtain data
 for commonsense-focused analysis in open domain
 response generation, we use two strategies: filtering existing dialogue data using a commonsense
 knowledge graph ConcepetNet, and collecting new
 dialogues using prompts from multiple-choice commonsense benchmark. To close the gap in automatic evaluation metric for response generation, we propose a
 simple MLP regressor using both neural and symbolic features, and show promising correlation with
 human judgements.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouGHKPRLH21```
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://doi.org/10.18653/v1/2021.acl-long.102)<a href="https://scholar.google.com.hk/scholar?q=Common+Sense+Beyond+English:+Evaluating+and+Improving+Multilingual+Language+Models+for+Commonsense+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Common Sense Beyond English: Evaluating and Improving Multilingual
+Language Models for Commonsense Reasoning**](https://doi.org/10.18653/v1/2021.acl-long.102) , <br> by *Bill Yuchen Lin and
+Seyeon Lee and
+Xiaoyang Qiao and
+Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L552-L570) <br>```The authors collect a large multilingual parallel corpus, MickeyCorpus. They also create X-CSQA and X-CODAH, two cross-lingual CSR benchmarks in 16 languages.To analyze how much common sense MLLMs already have, the authors evaluate multiple popular ML-LMs in zero-shot setting and cross-lingual transfer setting. They also propose multilingual contrastive pretraining, a simple and effective sentence-level pretext task
+for enhancing ML-LMs in cross-lingual commonsense reasoning.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LinLQ020```
 ## Ronan Le Bras
 
@@ -247,7 +249,14 @@ Seokhwan Kim and
 Jay Pujara and
 Xiang Ren and
 Yang Liu and
-Dilek Hakkani{-}T{\"{u}}r* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L488-L504) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouGHKPRLH21```
+Dilek Hakkani{-}T{\"{u}}r* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L488-L504) <br>```To obtain data
+for commonsense-focused analysis in open domain
+response generation, we use two strategies: filtering existing dialogue data using a commonsense
+knowledge graph ConcepetNet, and collecting new
+dialogues using prompts from multiple-choice commonsense benchmark. To close the gap in automatic evaluation metric for response generation, we propose a
+simple MLP regressor using both neural and symbolic features, and show promising correlation with
+human judgements.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouGHKPRLH21```
 ## Bill Yuchen Lin
 
 - [![](https://img.shields.io/badge/EMNLP_Findings-2021-blue)](https://doi.org/10.18653/v1/2021.findings-emnlp.349)<a href="https://scholar.google.com.hk/scholar?q=Probing+Commonsense+Explanation+in+Dialogue+Response+Generation"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Probing Commonsense Explanation in Dialogue Response Generation**](https://doi.org/10.18653/v1/2021.findings-emnlp.349) , <br> by *Pei Zhou and
@@ -261,13 +270,8 @@ Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/b
 Language Models for Commonsense Reasoning**](https://doi.org/10.18653/v1/2021.acl-long.102) , <br> by *Bill Yuchen Lin and
 Seyeon Lee and
 Xiaoyang Qiao and
-Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L545-L562) <br>``` To obtain data
-for commonsense-focused analysis in open domain
-response generation, we use two strategies: filtering existing dialogue data using a commonsense
-knowledge graph ConcepetNet, and collecting new
-dialogues using prompts from multiple-choice commonsense benchmark. To close the gap in automatic evaluation metric for response generation, we propose a
-simple MLP regressor using both neural and symbolic features, and show promising correlation with
-human judgements.
+Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L552-L570) <br>```The authors collect a large multilingual parallel corpus, MickeyCorpus. They also create X-CSQA and X-CODAH, two cross-lingual CSR benchmarks in 16 languages.To analyze how much common sense MLLMs already have, the authors evaluate multiple popular ML-LMs in zero-shot setting and cross-lingual transfer setting. They also propose multilingual contrastive pretraining, a simple and effective sentence-level pretext task
+for enhancing ML-LMs in cross-lingual commonsense reasoning.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LinLQ020```
 ## Pei Zhou
 
@@ -286,7 +290,14 @@ Seokhwan Kim and
 Jay Pujara and
 Xiang Ren and
 Yang Liu and
-Dilek Hakkani{-}T{\"{u}}r* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L488-L504) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouGHKPRLH21```
+Dilek Hakkani{-}T{\"{u}}r* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L488-L504) <br>```To obtain data
+for commonsense-focused analysis in open domain
+response generation, we use two strategies: filtering existing dialogue data using a commonsense
+knowledge graph ConcepetNet, and collecting new
+dialogues using prompts from multiple-choice commonsense benchmark. To close the gap in automatic evaluation metric for response generation, we propose a
+simple MLP regressor using both neural and symbolic features, and show promising correlation with
+human judgements.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ZhouGHKPRLH21```
 ## Minlie Huang
 
 - [![](https://img.shields.io/badge/AAAI-2018-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/11923)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://ojs.aaai.org/index.php/AAAI/article/view/11923) , <br> by *Tom Young and

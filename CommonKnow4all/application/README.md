@@ -8,7 +8,7 @@ This page categorizes the literature by their **Downstream Application**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/application/README.md#hyperlink)
-- [![](https://img.shields.io/badge/Question_Answering-3-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/application/README.md#question-answering)
+- [![](https://img.shields.io/badge/Question_Answering-4-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/application/README.md#question-answering)
 - [![](https://img.shields.io/badge/Dialogue_System-7-blue)](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/CommonKnow4all/application/README.md#dialogue-system)
 ## Hyperlink 
 - [Homepage](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/README.md)
@@ -25,6 +25,13 @@ This page categorizes the literature by their **Downstream Application**.
 
 ## Question Answering
 
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://doi.org/10.18653/v1/2021.acl-long.102)<a href="https://scholar.google.com.hk/scholar?q=Common+Sense+Beyond+English:+Evaluating+and+Improving+Multilingual+Language+Models+for+Commonsense+Reasoning"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Common Sense Beyond English: Evaluating and Improving Multilingual
+Language Models for Commonsense Reasoning**](https://doi.org/10.18653/v1/2021.acl-long.102) , <br> by *Bill Yuchen Lin and
+Seyeon Lee and
+Xiaoyang Qiao and
+Xiang Ren* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L552-L570) <br>```The authors collect a large multilingual parallel corpus, MickeyCorpus. They also create X-CSQA and X-CODAH, two cross-lingual CSR benchmarks in 16 languages.To analyze how much common sense MLLMs already have, the authors evaluate multiple popular ML-LMs in zero-shot setting and cross-lingual transfer setting. They also propose multilingual contrastive pretraining, a simple and effective sentence-level pretext task
+for enhancing ML-LMs in cross-lingual commonsense reasoning.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```LinLQ020```
 - [![](https://img.shields.io/badge/EMNLP_IJCNLP-2019-blue)](https://doi.org/10.18653/v1/D19-1454)<a href="https://scholar.google.com.hk/scholar?q=Social+IQa:+Commonsense+Reasoning+about+Social+Interactions"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Social IQa: Commonsense Reasoning about Social Interactions**](https://doi.org/10.18653/v1/D19-1454) , <br> by *Maarten Sap and
 Hannah Rashkin and
 Derek Chen and
@@ -62,7 +69,7 @@ Commonsense Knowledge Awareness**](https://doi.org/10.18653/v1/2020.acl-main.515
 Ying Li and
 Dawei Zhang and
 Yang Zhou and
-Zhonghai Wu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L507-L523) <br>```A Generation-based Dialogue System,  which proposed a felicitous fact recognizer that retrieves knowledge facts from the knowledge base by considering the speciﬁc dialog context.
+Zhonghai Wu* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L514-L530) <br>```A Generation-based Dialogue System,  which proposed a felicitous fact recognizer that retrieves knowledge facts from the knowledge base by considering the speciﬁc dialog context.
 ```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```WuLZZW20```
 - [![](https://img.shields.io/badge/AAAI-2018-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/11923)<a href="https://scholar.google.com.hk/scholar?q=Augmenting+End-to-End+Dialogue+Systems+With+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Augmenting End-to-End Dialogue Systems With Commonsense Knowledge**](https://ojs.aaai.org/index.php/AAAI/article/view/11923) , <br> by *Tom Young and
 Erik Cambria and

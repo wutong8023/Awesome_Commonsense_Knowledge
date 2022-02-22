@@ -156,7 +156,7 @@ list_type = [[venue] for venue in fined_taxonomy["Conference"]]
 list_type += fined_taxonomy["Journal"]
 list_type.append(fined_taxonomy["Preprint"])
 indexs = [0, -1]
-disc = "This page categorizes the literature by their **Published Venue**."
+disc = "This page categorizes the literature by their **Published Venue**"
 for index in indexs:
     plot_content(index=index, keys=["booktitle", "journal"], dir_path=dir_path, disc=disc, list_type=list_type,
                  sub_dirs=sub_dirs, mapping_name=mapping_name)
@@ -164,14 +164,14 @@ for index in indexs:
 # 1 Contribution
 list_type = [[typ] for typ in fined_taxonomy["Contribution"]]
 index = dir_path_dict["contribution"]
-disc = "This page categorizes the literature by their **Main Contribution**."
+disc = "This page categorizes the literature by their **Main Contribution**"
 plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
 
 # 2 time
 list_type = [[str(year)] for year in range(1980, 2030)][::-1]
 index = dir_path_dict["time"]
-disc = "This page categorizes the literature by their **Released Time**."
+disc = "This page categorizes the literature by their **Released Time**"
 plot_content(index=index, keys=["year"], dir_path=dir_path, disc=disc, list_type=list_type, sub_dirs=sub_dirs,
              mapping_name=mapping_name)
 
@@ -228,5 +228,5 @@ plot_content(index=index, keys=["keywords"], dir_path=dir_path, disc=disc, list_
 
 # 12 Author
 index = dir_path_dict["author"]
-disc = "This page categorizes the literature by their **Authors** who contributed at least 2 papers in this area."
+disc = "This page categorizes the literature by their **Authors** who contributed at least 2 papers in this area"
 plot_content(index=index, keys=["author"], dir_path=dir_path, disc=disc, list_type=None, sub_dirs=sub_dirs, mapping_name=mapping_name)
