@@ -35,7 +35,8 @@ This page categorizes the literature by their **Released Time**.
 
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://arxiv.org/abs/2201.12438)<a href="https://scholar.google.com.hk/scholar?q=Commonsense+Knowledge+Reasoning+and+Generation+with+Pre-trained+Language+Models:+A+Survey"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Commonsense Knowledge Reasoning and Generation with Pre-trained Language
 Models: A Survey**](https://arxiv.org/abs/2201.12438) , <br> by *Prajjwal Bhargava and
-Vincent Ng* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L16-L28) <br></details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2201-12438```
+Vincent Ng* [[bib]](https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/./bibtex.bib#L16-L28) <br>```This paper presents a survey of these tasks, discusses the strengths and weaknesses of state-of-the-art pre-trained models for commonsense reasoning and generation as revealed by these tasks, and reflects on future research directions.
+```</details><details><summary><img src=https://github.com/wutong8023/Awesome_Commonsense_Knowledge/blob/main/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2201-12438```
 ## 2021
 
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.04674)<a href="https://scholar.google.com.hk/scholar?q=How+Commonsense+Knowledge+Helps+with+Natural+Language+Tasks:+A+Survey+of+Recent+Resources+and+Methodologies"><img src="https://img.shields.io/badge/-blue.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**How Commonsense Knowledge Helps with Natural Language Tasks: A Survey
